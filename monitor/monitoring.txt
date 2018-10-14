@@ -1,0 +1,3 @@
+/root/Desktop/Perl/test/kkk.txt:1f404ea11d209dc7a76761a83780c4c847fe941cbcd66fea7baf92f6a12f3667
+/root/Desktop/Perl/test/test1.txt:cc65a8246f5769a00e9f15dd5122cdd55293eb9dac7851ca30ccfc8300cdfedc
+/root/Desktop/Perl/test/z/nam.txt:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
